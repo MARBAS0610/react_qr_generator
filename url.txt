@@ -1,0 +1,7 @@
+https://ralacode.com/blog/post/get-value-of-input-using-react/
+https://learn.microsoft.com/ja-jp/training/modules/react-get-started/1-introduction
+https://zenn.dev/web_tips/articles/abad1a544f3643
+https://applingo.tokyo/article/80
+https://github.com/rosskhanas/react-qr-code#readme
+https://jsonworld.com/demo/generate-qr-code-in-jquery
+https://oldbigbuddha.dev/posts/react-component-to-png
