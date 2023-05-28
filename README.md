@@ -1,0 +1,2 @@
+# react_qr_generator
+JavaScriptのReactフレームワークでQRコード生成サイトを作りました。
