@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* ブロック要素の中央揃え */
+.centering_block{
+  padding: 10px;
+  text-align: center;
+  background-color: #fff;
+  height: auto;
+}
+
+/* 背景色を変える */
+.centering_block_gray{
+  margin-right: 5%;
+  margin-left: 5%;
+  padding: 10px;
+  text-align: center;
+  background-color: #888;
+  height: auto;
+}
+
+/* インライン要素(p等)の中央揃え */
+.centering_inline{
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+/* テキストエリア */
+textarea{
+  width: 30%;
+  height: 80px;
+  margin:20px;
+}
+
+button{
+  margin: 20px;
+}
